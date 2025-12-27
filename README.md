@@ -103,21 +103,6 @@ New installers appear in the interface without restarting the application.
 * `features/` — features (SearchBar, CategoryFilter)
 * `widgets/` — composite components (Header, InstallerList)
 
-## Supported Applications
-
-* NVM, Node.js, Bun, Git, Docker
-* Postman, Cursor, VS Code, iTerm
-* Telegram, Discord
-* DBngin, DBeaver, TablePlus
-* Spotify, OBS
-* Unity Hub, Unity
-* Charles, NordVPN, NordPass
-* Visual Studio, Android Studio, Xcode
-* Figma, Pixso
-* Transmit, DaisyDisk
-* JetBrains Toolbox
-* Shazam, NCALayer
-
 ## Features
 
 * Dependency checking (e.g. Node.js requires NVM)
