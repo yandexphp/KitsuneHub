@@ -1,0 +1,16 @@
+{
+  "id": "example-app",
+  "name": "Example App",
+  "description": "Пример динамического установщика",
+  "category": "Examples",
+  "dependencies": [],
+  "scripts": {
+    "install": "install.sh",
+    "update": "update.sh",
+    "uninstall": "uninstall.sh",
+    "check": "check.sh",
+    "version": "version.sh",
+    "latest_version": "latest_version.sh"
+  }
+}
+

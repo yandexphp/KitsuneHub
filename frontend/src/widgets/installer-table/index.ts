@@ -1,0 +1,1 @@
+export { InstallerTable } from './InstallerTable';

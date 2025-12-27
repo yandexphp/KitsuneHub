@@ -1,0 +1,1 @@
+export { BatchInstallModal } from './BatchInstallModal';
